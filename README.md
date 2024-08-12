@@ -1,4 +1,4 @@
-## Machine Learning Technique s##
+## Machine Learning Techniques ##
 This repository contains implementations and explanations of various machine learning techniques, including supervised learning, unsupervised learning, vectorization, and gradient descent. The goal is to provide a comprehensive guide to these core concepts, with examples and code to help you understand and apply them in real-world scenarios.
 
 Contents
